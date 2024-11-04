@@ -1,4 +1,4 @@
-package com.devsuperior.desafio_crud.entities;
+package com.devsuperior.desafio_crud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
